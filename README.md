@@ -14,3 +14,11 @@ Some files for students who have completed [Learn Python the Hard Way](http://le
 
 **while_loops.py** Examples of while-loops in Python.
 
+Students have just been introduced to:
+
+* Booleans
+* if-elif-else
+* lists
+* for loops
+* while loops
+
